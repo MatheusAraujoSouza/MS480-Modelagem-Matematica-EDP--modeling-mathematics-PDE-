@@ -10,7 +10,7 @@ sua altura e fugindo do comportamento normal da função sin(xt), comportamento 
 seguido antes da passagem por ela.
 
 
-# MS480-modeling-mathematics-EDP
+# MS480-modeling-mathematics-PDE
 Course design of MS480 (mathematical modeling), effects of variations in boundary conditions in an EDP.
 
 In order to study and analyze the behavior of a Differential Equation

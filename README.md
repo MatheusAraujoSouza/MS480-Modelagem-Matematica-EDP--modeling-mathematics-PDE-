@@ -20,3 +20,9 @@ rampa, constatando que, para determinadas variações de tempo e elevação da a
 máxima da função a esquerda, nossa curva fica mais elevada ao passar por ela, aumentando
 sua altura e fugindo do comportamento normal da função sin(xt), comportamento que era
 seguido antes da passagem por ela.
+
+## illustrative video of the modifications in the pde 
+<p align="center">
+<img align="center" alt="GIF" src="https://github.com/MatheusAraujoSouza/MS480-Modelagem-Matematica-EDP--modeling-mathematics-PDE-/blob/main/gif%20fouriest%20series.gif" />
+  
+  

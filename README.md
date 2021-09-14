@@ -26,3 +26,7 @@ seguido antes da passagem por ela.
 <img align="center" alt="GIF" src="https://github.com/MatheusAraujoSouza/MS480-Modelagem-Matematica-EDP--modeling-mathematics-PDE-/blob/main/gif%20fouriest%20series.gif" />
   
   
+  
+  more information in: https://github.com/MatheusAraujoSouza/MS480-Modelagem-Matematica-EDP--modeling-mathematics-PDE-/blob/main/Projeto%20de%20modelagem%20.pdf
+  
+  
